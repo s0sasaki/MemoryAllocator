@@ -2,8 +2,6 @@
 
 Simple malloc, calloc, realloc, and free.
 
-Systemcalls: sbrk(2), mmap(2), munmap(2)
-
 # Reference
 
  - https://www.ibm.com/developerworks/jp/linux/library/l-memory/index.html (Japanese)
